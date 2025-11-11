@@ -1,7 +1,7 @@
 {
   "allowed_public_key_fingerprints": [
     "8c43611ffc70fdfd6577c87b5e4a118c4c8f392e2d46693a920cd445087ad04e",
-    "dde534aeb5bdc2240f6eafde603da17684e7bb0368580865be953e5d36e074e"
+    "dde534aeb5bdc2240f6eafde603da"
   ],
   "message_if_denied": "Thiết bị này chưa được cấp phép. Liên hệ admin để được phê duyệt."
 }
